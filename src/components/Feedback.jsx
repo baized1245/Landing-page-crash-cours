@@ -1,7 +1,5 @@
 import React from 'react'
-import Card from './Card'
 import Slider from "react-slick";
-import { courses } from '../data/Courses';
 import FeedbackCard from './FeedbackCard';
 
 const Feedback = () => {
